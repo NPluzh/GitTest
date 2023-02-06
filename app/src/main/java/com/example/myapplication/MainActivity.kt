@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("commit 3")
         println("commit 4")
         println("commit 5")
+        println("commit 8")
     }
 }
